@@ -5,3 +5,5 @@ end
 def map (dune)
   dune.map){|n| n}
 end
+
+{|n| n * 2}
