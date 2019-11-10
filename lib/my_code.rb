@@ -7,3 +7,5 @@ def map (dune)
 end
 
 {|n| n * 2}
+
+{|n| n * n}
